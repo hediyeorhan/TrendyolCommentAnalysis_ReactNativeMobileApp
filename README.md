@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/2fb439a9-5045-4e53-bd52-38683f55eb8e" alt="Resim 1">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/f0ad0d69-2d62-4e79-aafc-97e19d56137a" alt="Resim 1">
         </td>
         <td>
             <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/3e892317-3b04-46d9-93d8-f14f37d1eba8" alt="Resim 2">
