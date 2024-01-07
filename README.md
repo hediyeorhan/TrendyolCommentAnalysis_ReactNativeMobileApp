@@ -2,13 +2,13 @@
 <table>
     <tr>
         <td>
-            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/f0ad0d69-2d62-4e79-aafc-97e19d56137a" alt="Resim 1">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/f0ad0d69-2d62-4e79-aafc-97e19d56137a">
         </td>
         <td>
-            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/3e892317-3b04-46d9-93d8-f14f37d1eba8" alt="Resim 2">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/3e892317-3b04-46d9-93d8-f14f37d1eba8">
         </td>
         <td>
-            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/02a606ed-50fc-4da7-a05b-7e336c363413" alt="Resim 3">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/02a606ed-50fc-4da7-a05b-7e336c363413">
         </td>
     </tr>
 </table>
@@ -16,7 +16,7 @@
 
 In this study, a mobile application was developed with react native. The mobile application classifies the reviews of a particular product on Trendyol, an e-commerce website, as negative, positive and neutral. In the mobile application, there is an input field where the link of the comments of the product to be analyzed can be entered. Then, the categorized versions of these comments are displayed on the application interface.
 
-Translated with DeepL.com (free version)
+
 
 <h2> 2) Projede Elde Edilen Çıktılar </h2>
 
