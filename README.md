@@ -2,13 +2,13 @@
 <table>
     <tr>
         <td>
-            <img src="![Ekran görüntüsü 2023-12-27 145849](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/2fb439a9-5045-4e53-bd52-38683f55eb8e)" alt="Resim 1">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/2fb439a9-5045-4e53-bd52-38683f55eb8e" alt="Resim 1">
         </td>
         <td>
-            <img src="![result_neutral](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/3e892317-3b04-46d9-93d8-f14f37d1eba8)" alt="Resim 2">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/3e892317-3b04-46d9-93d8-f14f37d1eba8" alt="Resim 2">
         </td>
         <td>
-            <img src="![result_positive](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/02a606ed-50fc-4da7-a05b-7e336c363413)" alt="Resim 3">
+            <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/02a606ed-50fc-4da7-a05b-7e336c363413" alt="Resim 3">
         </td>
     </tr>
 </table>
