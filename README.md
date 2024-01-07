@@ -27,16 +27,25 @@ The sequential commands for the creation and operation of a Docker container are
 ```ini
   docker build -t docker_api .
   ```
+Command output: 
+
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/b156f33d-ea1e-4e55-9e20-e06c634ec8dc" alt="Figure 1: Docker build command output">
+</div>
+<div align="center">
+    <p>Figure 1: Docker build command output </p>
+</div>
+
 ```ini
   docker run -it --net=host my_selenium_image
   ```
-
+Command output: 
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/c0564213-7297-4c79-9987-7d456f2389ba" alt="Şekil 1: Kullanıcıya sunulan menü ekranı">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/ae07a972-7a63-4e1d-8b91-46ed5baec9e9" alt="Figure 2: Docker run command output">
 </div>
 <div align="center">
-    <p>Şekil 1: Kullanıcıya sunulan menü ekranı</p>
+    <p>Figure 2: Docker run command output </p>
 </div>
 
 
@@ -51,3 +60,29 @@ Verilerin çekilmesi ve sınıflandırılması bir api koduna bağlı olarak ger
 Api kodu bir docker konteynır içerisinde çalıştırılmıştır.  Jetson nano developer kit cihazı sunucu görevi üstlenmiştir. Jetson nano üzerine kurulan docker içerisinde api kodu çalışmaktadır. Proje için hazırlanan DockerFile dosyasına api klasöründen erişilebilir.
 
 Docker konteynırının oluşturulması ve çalışması için sıralı komutlar şunlardır:
+
+```ini
+  docker build -t docker_api .
+  ```
+
+Komut çıktısı: 
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/b156f33d-ea1e-4e55-9e20-e06c634ec8dc" alt="Figure 1: Docker build command output">
+</div>
+<div align="center">
+    <p>Figure 1: Docker build komut çıktısı</p>
+</div>
+
+```ini
+  docker run -it --net=host my_selenium_image
+  ```
+
+Komut çıktısı: 
+
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/ae07a972-7a63-4e1d-8b91-46ed5baec9e9" alt="Şekil 2: Docker run komutu çıktısı">
+</div>
+<div align="center">
+    <p>Şekil 2: Docker run komutu çıktısı</p>
+</div>
+
