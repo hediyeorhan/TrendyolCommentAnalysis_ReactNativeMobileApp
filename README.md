@@ -70,7 +70,7 @@ Komut çıktısı:
     <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/b156f33d-ea1e-4e55-9e20-e06c634ec8dc" alt="Figure 1: Docker build command output">
 </div>
 <div align="center">
-    <p>Figure 1: Docker build komut çıktısı</p>
+    <p>Şekil 1: Docker build komut çıktısı</p>
 </div>
 
 ```ini
