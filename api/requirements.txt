@@ -1,0 +1,7 @@
+joblib
+flask
+selenium
+flask-cors
+Cython
+scikit-learn==1.2.2
+webdriver_manager

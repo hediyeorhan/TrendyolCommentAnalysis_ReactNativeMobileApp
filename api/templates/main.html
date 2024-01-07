@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emotion Analysis Results</title>
+</head>
+<body>
+    <h1>Emotion Analysis Results</h1>
+    <ul>
+        {% for item in prediction.items() %}
+            <li>{{ item[0] }} is: {{ item[1].sentiment }} (Confidence: {{ item[1].confidence }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
