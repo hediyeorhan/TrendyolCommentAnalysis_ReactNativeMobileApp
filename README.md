@@ -53,7 +53,7 @@ Command output:
 
 Bu çalışmada react native ile bir mobil uygulama geliştirilmiştir. Geliştirilen mobil uygulama bir e-ticaret sitesi olan Trendyol üzerindeki belirli bir ürüne ait yorumları  negatif, pozitif ve nötr olarak sınıflandırmaktadır. Mobil uygulamada analizi istenilen ürüne ait yorumların linkinin girileceği bir input alanı bulunmaktadır. Sonrasında bu yorumların sınıflandırılmış halleri uygulama ara yüzünde görülmektedir.
 
-E-ticaret sitesinden yorumların çekilmesinde Selenium kütüphanesi kullanılmıştır. Çekilen yorumların sınıflandırılması için logistic regression algoritması kullanılmıştır.
+E-ticaret sitesinden yorumların çekilmesinde Selenium kütüphanesi kullanılmıştır. Çekilen yorumların sınıflandırılması için logistic regresyon algoritması kullanılmıştır.
 
 Verilerin çekilmesi ve sınıflandırılması bir api koduna bağlı olarak gerçekleşmektedir. React native mobil uygulamasına bir ürüne ait url adresi girildiğinde api koduna istek atılmaktadır. Burada veriler çekilmektedir ve sınıflandırılmaktadır. Sınıflandırılan veriler react native mobile uygulamasına gönderilmektedir. Veri çekme ve sınıflandırma kodlarına api klasörü içerisinden erişilebilmektedir.
 
