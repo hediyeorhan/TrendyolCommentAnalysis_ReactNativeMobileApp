@@ -37,7 +37,7 @@ Command output:
 </div>
 
 ```ini
-  docker run -it --net=host my_selenium_image
+  docker run -it --net=host docker_api
   ```
 Command output: 
 
@@ -74,7 +74,7 @@ Komut çıktısı:
 </div>
 
 ```ini
-  docker run -it --net=host my_selenium_image
+  docker run -it --net=host docker_api
   ```
 
 Komut çıktısı: 
